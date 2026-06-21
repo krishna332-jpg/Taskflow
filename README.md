@@ -1,5 +1,6 @@
-# TaskFlow         ##[Live Demo](https://taskflow-neon-kappa.vercel.app)
+# TaskFlow         
 
+[Live Demo](https://taskflow-neon-kappa.vercel.app)
 An AI-powered project management platform built for teams. Create a project, describe it in plain text or upload a PDF brief, and AI generates a structured task breakdown automatically. Assign teammates to individual tasks using their personal invite code, track progress with real-time status updates, and collaborate in project-scoped chat — all backed by Google OAuth and a real-time notification system.
 
 Built as a production-grade full-stack application with role-based permissions, persistent data, live deployment, and zero manual data entry required to get started.
