@@ -149,3 +149,9 @@ taskflow/
         package.json
         vercel.json
 ```
+
+---
+
+Created by **Athul Krishna K S**
+
+[Portfolio](https://athul-krishna-k-s.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/athul-krishna-k-s-135a42338/) · [Live Demo](https://taskflow-neon-kappa.vercel.app)
